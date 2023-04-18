@@ -1,0 +1,7 @@
+require("prototypes.recipes")
+require("prototypes.categories.resource-category")
+require("prototypes.gas")
+require("prototypes.autoplace-controls")
+require("prototypes.entity.resources")
+require("prototypes.item")
+require("prototypes.entity.mining-drill")
